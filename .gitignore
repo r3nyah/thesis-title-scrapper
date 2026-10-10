@@ -1,0 +1,15 @@
+# environments and caches
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# secrets - NEVER commit these
+.env
+.streamlit/secrets.toml
+
+# raw scraped data contains student names - keep local only
+data/*Graduates.csv
+data/*.part
+
+*.zip

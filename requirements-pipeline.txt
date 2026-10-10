@@ -1,0 +1,5 @@
+# Only needed locally for scraping and extraction (not for the hosted dashboard)
+requests
+beautifulsoup4
+tqdm
+ollama
