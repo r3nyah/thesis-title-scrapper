@@ -1,5 +1,9 @@
 # Thesis Explorer
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://thesis-title-scrapper.streamlit.app/)
+
+Live demo: https://thesis-title-scrapper.streamlit.app/
+
 Scrape BINUS graduation data, extract thesis methods/domains with a local LLM (Ollama) or Gemini,
 and explore everything in a Streamlit dashboard.
 
